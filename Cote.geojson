@@ -1,0 +1,1872 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abidjan",
+        "name_fr": "Abidjan",
+        "type": "District Autonome",
+        "region": "Abidjan",
+        "district": "Abidjan",
+        "code": "AB"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.1, 5.2], [-3.85, 5.2], [-3.85, 5.55], [-4.2, 5.55], [-4.2, 5.2], [-4.1, 5.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abobo",
+        "name_fr": "Abobo",
+        "type": "Commune",
+        "region": "Abidjan",
+        "district": "Abidjan",
+        "departement": "Abidjan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.03, 5.41], [-3.98, 5.41], [-3.98, 5.46], [-4.03, 5.46], [-4.03, 5.41]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adjamé",
+        "name_fr": "Adjamé",
+        "type": "Commune",
+        "region": "Abidjan",
+        "district": "Abidjan",
+        "departement": "Abidjan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.03, 5.35], [-3.99, 5.35], [-3.99, 5.38], [-4.03, 5.38], [-4.03, 5.35]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Attécoubé",
+        "name_fr": "Attécoubé",
+        "type": "Commune",
+        "region": "Abidjan",
+        "district": "Abidjan",
+        "departement": "Abidjan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.06, 5.34], [-4.02, 5.34], [-4.02, 5.37], [-4.06, 5.37], [-4.06, 5.34]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cocody",
+        "name_fr": "Cocody",
+        "type": "Commune",
+        "region": "Abidjan",
+        "district": "Abidjan",
+        "departement": "Abidjan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-3.98, 5.34], [-3.92, 5.34], [-3.92, 5.39], [-3.98, 5.39], [-3.98, 5.34]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koumassi",
+        "name_fr": "Koumassi",
+        "type": "Commune",
+        "region": "Abidjan",
+        "district": "Abidjan",
+        "departement": "Abidjan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-3.98, 5.28], [-3.93, 5.28], [-3.93, 5.32], [-3.98, 5.32], [-3.98, 5.28]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Marcory",
+        "name_fr": "Marcory",
+        "type": "Commune",
+        "region": "Abidjan",
+        "district": "Abidjan",
+        "departement": "Abidjan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.02, 5.29], [-3.97, 5.29], [-3.97, 5.33], [-4.02, 5.33], [-4.02, 5.29]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plateau",
+        "name_fr": "Plateau",
+        "type": "Commune",
+        "region": "Abidjan",
+        "district": "Abidjan",
+        "departement": "Abidjan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.03, 5.31], [-4.01, 5.31], [-4.01, 5.33], [-4.03, 5.33], [-4.03, 5.31]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Port-Bouët",
+        "name_fr": "Port-Bouët",
+        "type": "Commune",
+        "region": "Abidjan",
+        "district": "Abidjan",
+        "departement": "Abidjan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-3.98, 5.24], [-3.91, 5.24], [-3.91, 5.28], [-3.98, 5.28], [-3.98, 5.24]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Treichville",
+        "name_fr": "Treichville",
+        "type": "Commune",
+        "region": "Abidjan",
+        "district": "Abidjan",
+        "departement": "Abidjan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.01, 5.27], [-3.99, 5.27], [-3.99, 5.30], [-4.01, 5.30], [-4.01, 5.27]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yopougon",
+        "name_fr": "Yopougon",
+        "type": "Commune",
+        "region": "Abidjan",
+        "district": "Abidjan",
+        "departement": "Abidjan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.11, 5.32], [-4.04, 5.32], [-4.04, 5.37], [-4.11, 5.37], [-4.11, 5.32]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anyama",
+        "name_fr": "Anyama",
+        "type": "Sous-préfecture",
+        "region": "Abidjan",
+        "district": "Abidjan",
+        "departement": "Abidjan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.08, 5.48], [-4.04, 5.48], [-4.04, 5.52], [-4.08, 5.52], [-4.08, 5.48]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bingerville",
+        "name_fr": "Bingerville",
+        "type": "Sous-préfecture",
+        "region": "Abidjan",
+        "district": "Abidjan",
+        "departement": "Abidjan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-3.90, 5.34], [-3.86, 5.34], [-3.86, 5.38], [-3.90, 5.38], [-3.90, 5.34]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Songon",
+        "name_fr": "Songon",
+        "type": "Sous-préfecture",
+        "region": "Abidjan",
+        "district": "Abidjan",
+        "departement": "Abidjan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.18, 5.32], [-4.14, 5.32], [-4.14, 5.36], [-4.18, 5.36], [-4.18, 5.32]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yamoussoukro",
+        "name_fr": "Yamoussoukro",
+        "type": "District Autonome",
+        "region": "Yamoussoukro",
+        "district": "Yamoussoukro",
+        "code": "YM"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.4, 6.7], [-5.1, 6.7], [-5.1, 6.95], [-5.4, 6.95], [-5.4, 6.7]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Attiégouakro",
+        "name_fr": "Attiégouakro",
+        "type": "Sous-préfecture",
+        "region": "Yamoussoukro",
+        "district": "Yamoussoukro",
+        "departement": "Yamoussoukro"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.35, 6.85], [-5.25, 6.85], [-5.25, 6.95], [-5.35, 6.95], [-5.35, 6.85]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San-Pédro",
+        "name_fr": "San-Pédro",
+        "type": "Département",
+        "region": "Bas-Sassandra",
+        "district": "Bas-Sassandra",
+        "departement": "San-Pédro",
+        "chef_lieu": "San-Pédro"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.8, 4.6], [-6.4, 4.6], [-6.4, 5.0], [-6.8, 5.0], [-6.8, 4.6]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gabiadji",
+        "name_fr": "Gabiadji",
+        "type": "Sous-préfecture",
+        "region": "Bas-Sassandra",
+        "district": "Bas-Sassandra",
+        "departement": "San-Pédro"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.75, 4.65], [-6.65, 4.65], [-6.65, 4.75], [-6.75, 4.75], [-6.75, 4.65]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand-Bereby",
+        "name_fr": "Grand-Bereby",
+        "type": "Sous-préfecture",
+        "region": "Bas-Sassandra",
+        "district": "Bas-Sassandra",
+        "departement": "San-Pédro"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.95, 4.65], [-6.85, 4.65], [-6.85, 4.75], [-6.95, 4.75], [-6.95, 4.65]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sassandra",
+        "name_fr": "Sassandra",
+        "type": "Département",
+        "region": "Bas-Sassandra",
+        "district": "Bas-Sassandra",
+        "departement": "Sassandra",
+        "chef_lieu": "Sassandra"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.5, 4.9], [-6.0, 4.9], [-6.0, 5.3], [-6.5, 5.3], [-6.5, 4.9]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dakpadou",
+        "name_fr": "Dakpadou",
+        "type": "Sous-préfecture",
+        "region": "Bas-Sassandra",
+        "district": "Bas-Sassandra",
+        "departement": "Sassandra"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.4, 5.0], [-6.3, 5.0], [-6.3, 5.1], [-6.4, 5.1], [-6.4, 5.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grihiri",
+        "name_fr": "Grihiri",
+        "type": "Sous-préfecture",
+        "region": "Bas-Sassandra",
+        "district": "Bas-Sassandra",
+        "departement": "Sassandra"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.25, 5.15], [-6.15, 5.15], [-6.15, 5.25], [-6.25, 5.25], [-6.25, 5.15]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tabou",
+        "name_fr": "Tabou",
+        "type": "Département",
+        "region": "Bas-Sassandra",
+        "district": "Bas-Sassandra",
+        "departement": "Tabou",
+        "chef_lieu": "Tabou"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.5, 4.4], [-7.0, 4.4], [-7.0, 5.2], [-7.5, 5.2], [-7.5, 4.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dapo-Iboké",
+        "name_fr": "Dapo-Iboké",
+        "type": "Sous-préfecture",
+        "region": "Bas-Sassandra",
+        "district": "Bas-Sassandra",
+        "departement": "Tabou"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.4, 4.5], [-7.3, 4.5], [-7.3, 4.6], [-7.4, 4.6], [-7.4, 4.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Djiroutou",
+        "name_fr": "Djiroutou",
+        "type": "Sous-préfecture",
+        "region": "Bas-Sassandra",
+        "district": "Bas-Sassandra",
+        "departement": "Tabou"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.25, 4.7], [-7.15, 4.7], [-7.15, 4.8], [-7.25, 4.8], [-7.25, 4.7]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Soubré",
+        "name_fr": "Soubré",
+        "type": "Département",
+        "region": "Bas-Sassandra",
+        "district": "Bas-Sassandra",
+        "departement": "Soubré",
+        "chef_lieu": "Soubré"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.6, 5.3], [-6.0, 5.3], [-6.0, 5.9], [-6.6, 5.9], [-6.6, 5.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buyo",
+        "name_fr": "Buyo",
+        "type": "Sous-préfecture",
+        "region": "Bas-Sassandra",
+        "district": "Bas-Sassandra",
+        "departement": "Soubré"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.5, 5.7], [-6.4, 5.7], [-6.4, 5.8], [-6.5, 5.8], [-6.5, 5.7]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand-Zattry",
+        "name_fr": "Grand-Zattry",
+        "type": "Sous-préfecture",
+        "region": "Bas-Sassandra",
+        "district": "Bas-Sassandra",
+        "departement": "Soubré"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.3, 5.5], [-6.2, 5.5], [-6.2, 5.6], [-6.3, 5.6], [-6.3, 5.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Méagui",
+        "name_fr": "Méagui",
+        "type": "Sous-préfecture",
+        "region": "Bas-Sassandra",
+        "district": "Bas-Sassandra",
+        "departement": "Soubré"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.45, 5.4], [-6.35, 5.4], [-6.35, 5.5], [-6.45, 5.5], [-6.45, 5.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tai",
+        "name_fr": "Tai",
+        "type": "Département",
+        "region": "Bas-Sassandra",
+        "district": "Bas-Sassandra",
+        "departement": "Tai",
+        "chef_lieu": "Tai"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.5, 5.5], [-7.1, 5.5], [-7.1, 5.9], [-7.5, 5.9], [-7.5, 5.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daobly",
+        "name_fr": "Daobly",
+        "type": "Sous-préfecture",
+        "region": "Bas-Sassandra",
+        "district": "Bas-Sassandra",
+        "departement": "Tai"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.4, 5.6], [-7.3, 5.6], [-7.3, 5.7], [-7.4, 5.7], [-7.4, 5.6]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abengourou",
+        "name_fr": "Abengourou",
+        "type": "Département",
+        "region": "Comoé",
+        "district": "Comoé",
+        "departement": "Abengourou",
+        "chef_lieu": "Abengourou"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-3.6, 6.5], [-3.3, 6.5], [-3.3, 6.9], [-3.6, 6.9], [-3.6, 6.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agnibilékrou",
+        "name_fr": "Agnibilékrou",
+        "type": "Département",
+        "region": "Comoé",
+        "district": "Comoé",
+        "departement": "Agnibilékrou",
+        "chef_lieu": "Agnibilékrou"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-3.3, 6.9], [-3.0, 6.9], [-3.0, 7.4], [-3.3, 7.4], [-3.3, 6.9]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bettié",
+        "name_fr": "Bettié",
+        "type": "Département",
+        "region": "Comoé",
+        "district": "Comoé",
+        "departement": "Bettié",
+        "chef_lieu": "Bettié"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-3.2, 6.1], [-2.9, 6.1], [-2.9, 6.5], [-3.2, 6.5], [-3.2, 6.1]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand-Bassam",
+        "name_fr": "Grand-Bassam",
+        "type": "Département",
+        "region": "Comoé",
+        "district": "Comoé",
+        "departement": "Grand-Bassam",
+        "chef_lieu": "Grand-Bassam"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-3.85, 5.15], [-3.65, 5.15], [-3.65, 5.35], [-3.85, 5.35], [-3.85, 5.15]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bonoua",
+        "name_fr": "Bonoua",
+        "type": "Sous-préfecture",
+        "region": "Comoé",
+        "district": "Comoé",
+        "departement": "Grand-Bassam"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-3.75, 5.25], [-3.65, 5.25], [-3.65, 5.35], [-3.75, 5.35], [-3.75, 5.25]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adzopé",
+        "name_fr": "Adzopé",
+        "type": "Département",
+        "region": "Comoé",
+        "district": "Comoé",
+        "departement": "Adzopé",
+        "chef_lieu": "Adzopé"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-3.9, 6.05], [-3.5, 6.05], [-3.5, 6.45], [-3.9, 6.45], [-3.9, 6.05]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yakassé-Attobrou",
+        "name_fr": "Yakassé-Attobrou",
+        "type": "Sous-préfecture",
+        "region": "Comoé",
+        "district": "Comoé",
+        "departement": "Adzopé"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-3.8, 6.15], [-3.7, 6.15], [-3.7, 6.25], [-3.8, 6.25], [-3.8, 6.15]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Odienné",
+        "name_fr": "Odienné",
+        "type": "Département",
+        "region": "Denguélé",
+        "district": "Denguélé",
+        "departement": "Odienné",
+        "chef_lieu": "Odienné"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.8, 9.3], [-7.3, 9.3], [-7.3, 9.8], [-7.8, 9.8], [-7.8, 9.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gbéléban",
+        "name_fr": "Gbéléban",
+        "type": "Sous-préfecture",
+        "region": "Denguélé",
+        "district": "Denguélé",
+        "departement": "Odienné"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.7, 9.4], [-7.6, 9.4], [-7.6, 9.5], [-7.7, 9.5], [-7.7, 9.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madinani",
+        "name_fr": "Madinani",
+        "type": "Département",
+        "region": "Denguélé",
+        "district": "Denguélé",
+        "departement": "Madinani",
+        "chef_lieu": "Madinani"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.9, 9.8], [-7.5, 9.8], [-7.5, 10.2], [-7.9, 10.2], [-7.9, 9.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Minignan",
+        "name_fr": "Minignan",
+        "type": "Département",
+        "region": "Denguélé",
+        "district": "Denguélé",
+        "departement": "Minignan",
+        "chef_lieu": "Minignan"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.5, 9.0], [-7.0, 9.0], [-7.0, 9.5], [-7.5, 9.5], [-7.5, 9.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Samatiguila",
+        "name_fr": "Samatiguila",
+        "type": "Département",
+        "region": "Denguélé",
+        "district": "Denguélé",
+        "departement": "Samatiguila",
+        "chef_lieu": "Samatiguila"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-8.2, 8.8], [-7.8, 8.8], [-7.8, 9.3], [-8.2, 9.3], [-8.2, 8.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gagnoa",
+        "name_fr": "Gagnoa",
+        "type": "Département",
+        "region": "Gôh-Djiboua",
+        "district": "Gôh-Djiboua",
+        "departement": "Gagnoa",
+        "chef_lieu": "Gagnoa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.2, 6.0], [-5.8, 6.0], [-5.8, 6.4], [-6.2, 6.4], [-6.2, 6.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bayota",
+        "name_fr": "Bayota",
+        "type": "Sous-préfecture",
+        "region": "Gôh-Djiboua",
+        "district": "Gôh-Djiboua",
+        "departement": "Gagnoa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.1, 6.1], [-6.0, 6.1], [-6.0, 6.2], [-6.1, 6.2], [-6.1, 6.1]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oumé",
+        "name_fr": "Oumé",
+        "type": "Département",
+        "region": "Gôh-Djiboua",
+        "district": "Gôh-Djiboua",
+        "departement": "Oumé",
+        "chef_lieu": "Oumé"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.8, 6.2], [-5.4, 6.2], [-5.4, 6.6], [-5.8, 6.6], [-5.8, 6.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guépahouo",
+        "name_fr": "Guépahouo",
+        "type": "Sous-préfecture",
+        "region": "Gôh-Djiboua",
+        "district": "Gôh-Djiboua",
+        "departement": "Oumé"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.7, 6.3], [-5.6, 6.3], [-5.6, 6.4], [-5.7, 6.4], [-5.7, 6.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Divo",
+        "name_fr": "Divo",
+        "type": "Département",
+        "region": "Gôh-Djiboua",
+        "district": "Gôh-Djiboua",
+        "departement": "Divo",
+        "chef_lieu": "Divo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.5, 5.7], [-5.1, 5.7], [-5.1, 6.1], [-5.5, 6.1], [-5.5, 5.7]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hiré",
+        "name_fr": "Hiré",
+        "type": "Sous-préfecture",
+        "region": "Gôh-Djiboua",
+        "district": "Gôh-Djiboua",
+        "departement": "Divo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.4, 5.8], [-5.3, 5.8], [-5.3, 5.9], [-5.4, 5.9], [-5.4, 5.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lakota",
+        "name_fr": "Lakota",
+        "type": "Département",
+        "region": "Gôh-Djiboua",
+        "district": "Gôh-Djiboua",
+        "departement": "Lakota",
+        "chef_lieu": "Lakota"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.8, 5.6], [-5.4, 5.6], [-5.4, 6.0], [-5.8, 6.0], [-5.8, 5.6]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dignago",
+        "name_fr": "Dignago",
+        "type": "Sous-préfecture",
+        "region": "Gôh-Djiboua",
+        "district": "Gôh-Djiboua",
+        "departement": "Lakota"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.7, 5.7], [-5.6, 5.7], [-5.6, 5.8], [-5.7, 5.8], [-5.7, 5.7]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guitry",
+        "name_fr": "Guitry",
+        "type": "Département",
+        "region": "Gôh-Djiboua",
+        "district": "Gôh-Djiboua",
+        "departement": "Guitry",
+        "chef_lieu": "Guitry"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.0, 5.5], [-5.6, 5.5], [-5.6, 5.8], [-6.0, 5.8], [-6.0, 5.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fresco",
+        "name_fr": "Fresco",
+        "type": "Département",
+        "region": "Gôh-Djiboua",
+        "district": "Gôh-Djiboua",
+        "departement": "Fresco",
+        "chef_lieu": "Fresco"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.8, 4.9], [-5.4, 4.9], [-5.4, 5.3], [-5.8, 5.3], [-5.8, 4.9]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dimbokro",
+        "name_fr": "Dimbokro",
+        "type": "Département",
+        "region": "Lacs",
+        "district": "Lacs",
+        "departement": "Dimbokro",
+        "chef_lieu": "Dimbokro"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.8, 6.6], [-4.4, 6.6], [-4.4, 7.0], [-4.8, 7.0], [-4.8, 6.6]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bocanda",
+        "name_fr": "Bocanda",
+        "type": "Département",
+        "region": "Lacs",
+        "district": "Lacs",
+        "departement": "Bocanda",
+        "chef_lieu": "Bocanda"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.6, 7.0], [-4.2, 7.0], [-4.2, 7.4], [-4.6, 7.4], [-4.6, 7.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kouadiokro",
+        "name_fr": "Kouadiokro",
+        "type": "Sous-préfecture",
+        "region": "Lacs",
+        "district": "Lacs",
+        "departement": "Bocanda"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.5, 7.1], [-4.4, 7.1], [-4.4, 7.2], [-4.5, 7.2], [-4.5, 7.1]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toumodi",
+        "name_fr": "Toumodi",
+        "type": "Département",
+        "region": "Lacs",
+        "district": "Lacs",
+        "departement": "Toumodi",
+        "chef_lieu": "Toumodi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.2, 6.5], [-4.8, 6.5], [-4.8, 6.9], [-5.2, 6.9], [-5.2, 6.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kpouébo",
+        "name_fr": "Kpouébo",
+        "type": "Sous-préfecture",
+        "region": "Lacs",
+        "district": "Lacs",
+        "departement": "Toumodi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.1, 6.6], [-5.0, 6.6], [-5.0, 6.7], [-5.1, 6.7], [-5.1, 6.6]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiébissou",
+        "name_fr": "Tiébissou",
+        "type": "Département",
+        "region": "Lacs",
+        "district": "Lacs",
+        "departement": "Tiébissou",
+        "chef_lieu": "Tiébissou"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.3, 7.0], [-4.9, 7.0], [-4.9, 7.4], [-5.3, 7.4], [-5.3, 7.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "M'Bahiakro",
+        "name_fr": "M'Bahiakro",
+        "type": "Département",
+        "region": "Lacs",
+        "district": "Lacs",
+        "departement": "M'Bahiakro",
+        "chef_lieu": "M'Bahiakro"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.5, 7.3], [-4.1, 7.3], [-4.1, 7.7], [-4.5, 7.7], [-4.5, 7.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prikro",
+        "name_fr": "Prikro",
+        "type": "Département",
+        "region": "Lacs",
+        "district": "Lacs",
+        "departement": "Prikro",
+        "chef_lieu": "Prikro"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.3, 6.8], [-3.9, 6.8], [-3.9, 7.2], [-4.3, 7.2], [-4.3, 6.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dabou",
+        "name_fr": "Dabou",
+        "type": "Département",
+        "region": "Lagunes",
+        "district": "Lagunes",
+        "departement": "Dabou",
+        "chef_lieu": "Dabou"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.5, 5.2], [-4.1, 5.2], [-4.1, 5.6], [-4.5, 5.6], [-4.5, 5.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lopou",
+        "name_fr": "Lopou",
+        "type": "Sous-préfecture",
+        "region": "Lagunes",
+        "district": "Lagunes",
+        "departement": "Dabou"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.4, 5.3], [-4.3, 5.3], [-4.3, 5.4], [-4.4, 5.4], [-4.4, 5.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jacqueville",
+        "name_fr": "Jacqueville",
+        "type": "Département",
+        "region": "Lagunes",
+        "district": "Lagunes",
+        "departement": "Jacqueville",
+        "chef_lieu": "Jacqueville"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.5, 5.0], [-4.1, 5.0], [-4.1, 5.3], [-4.5, 5.3], [-4.5, 5.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grand-Lahou",
+        "name_fr": "Grand-Lahou",
+        "type": "Département",
+        "region": "Lagunes",
+        "district": "Lagunes",
+        "departement": "Grand-Lahou",
+        "chef_lieu": "Grand-Lahou"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.3, 5.0], [-4.8, 5.0], [-4.8, 5.4], [-5.3, 5.4], [-5.3, 5.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tiassalé",
+        "name_fr": "Tiassalé",
+        "type": "Département",
+        "region": "Lagunes",
+        "district": "Lagunes",
+        "departement": "Tiassalé",
+        "chef_lieu": "Tiassalé"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.1, 5.7], [-4.7, 5.7], [-4.7, 6.1], [-5.1, 6.1], [-5.1, 5.7]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taabo",
+        "name_fr": "Taabo",
+        "type": "Sous-préfecture",
+        "region": "Lagunes",
+        "district": "Lagunes",
+        "departement": "Tiassalé"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.0, 5.8], [-4.9, 5.8], [-4.9, 5.9], [-5.0, 5.9], [-5.0, 5.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sikensi",
+        "name_fr": "Sikensi",
+        "type": "Département",
+        "region": "Lagunes",
+        "district": "Lagunes",
+        "departement": "Sikensi",
+        "chef_lieu": "Sikensi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.8, 5.6], [-4.4, 5.6], [-4.4, 6.0], [-4.8, 6.0], [-4.8, 5.6]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Agboville",
+        "name_fr": "Agboville",
+        "type": "Département",
+        "region": "Lagunes",
+        "district": "Lagunes",
+        "departement": "Agboville",
+        "chef_lieu": "Agboville"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.4, 5.8], [-4.0, 5.8], [-4.0, 6.2], [-4.4, 6.2], [-4.4, 5.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rubino",
+        "name_fr": "Rubino",
+        "type": "Sous-préfecture",
+        "region": "Lagunes",
+        "district": "Lagunes",
+        "departement": "Agboville"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.3, 5.9], [-4.2, 5.9], [-4.2, 6.0], [-4.3, 6.0], [-4.3, 5.9]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Man",
+        "name_fr": "Man",
+        "type": "Département",
+        "region": "Montagnes",
+        "district": "Montagnes",
+        "departement": "Man",
+        "chef_lieu": "Man"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.8, 7.3], [-7.3, 7.3], [-7.3, 7.8], [-7.8, 7.8], [-7.8, 7.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sangouiné",
+        "name_fr": "Sangouiné",
+        "type": "Sous-préfecture",
+        "region": "Montagnes",
+        "district": "Montagnes",
+        "departement": "Man"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.7, 7.4], [-7.6, 7.4], [-7.6, 7.5], [-7.7, 7.5], [-7.7, 7.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Danané",
+        "name_fr": "Danané",
+        "type": "Département",
+        "region": "Montagnes",
+        "district": "Montagnes",
+        "departement": "Danané",
+        "chef_lieu": "Danané"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-8.2, 7.2], [-7.7, 7.2], [-7.7, 7.7], [-8.2, 7.7], [-8.2, 7.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zouan-Hounien",
+        "name_fr": "Zouan-Hounien",
+        "type": "Département",
+        "region": "Montagnes",
+        "district": "Montagnes",
+        "departement": "Zouan-Hounien",
+        "chef_lieu": "Zouan-Hounien"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-8.2, 6.8], [-7.8, 6.8], [-7.8, 7.3], [-8.2, 7.3], [-8.2, 6.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bangolo",
+        "name_fr": "Bangolo",
+        "type": "Département",
+        "region": "Montagnes",
+        "district": "Montagnes",
+        "departement": "Bangolo",
+        "chef_lieu": "Bangolo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.6, 7.0], [-7.1, 7.0], [-7.1, 7.5], [-7.6, 7.5], [-7.6, 7.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Biankouma",
+        "name_fr": "Biankouma",
+        "type": "Département",
+        "region": "Montagnes",
+        "district": "Montagnes",
+        "departement": "Biankouma",
+        "chef_lieu": "Biankouma"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.9, 7.7], [-7.5, 7.7], [-7.5, 8.2], [-7.9, 8.2], [-7.9, 7.7]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sipilou",
+        "name_fr": "Sipilou",
+        "type": "Département",
+        "region": "Montagnes",
+        "district": "Montagnes",
+        "departement": "Sipilou",
+        "chef_lieu": "Sipilou"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-8.0, 7.8], [-7.6, 7.8], [-7.6, 8.3], [-8.0, 8.3], [-8.0, 7.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Duékoué",
+        "name_fr": "Duékoué",
+        "type": "Département",
+        "region": "Montagnes",
+        "district": "Montagnes",
+        "departement": "Duékoué",
+        "chef_lieu": "Duékoué"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.5, 6.7], [-7.1, 6.7], [-7.1, 7.1], [-7.5, 7.1], [-7.5, 6.7]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guiglo",
+        "name_fr": "Guiglo",
+        "type": "Département",
+        "region": "Montagnes",
+        "district": "Montagnes",
+        "departement": "Guiglo",
+        "chef_lieu": "Guiglo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.6, 6.4], [-7.2, 6.4], [-7.2, 6.8], [-7.6, 6.8], [-7.6, 6.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toulépleu",
+        "name_fr": "Toulépleu",
+        "type": "Département",
+        "region": "Montagnes",
+        "district": "Montagnes",
+        "departement": "Toulépleu",
+        "chef_lieu": "Toulépleu"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-8.5, 6.5], [-8.1, 6.5], [-8.1, 6.9], [-8.5, 6.9], [-8.5, 6.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bloléquin",
+        "name_fr": "Bloléquin",
+        "type": "Département",
+        "region": "Montagnes",
+        "district": "Montagnes",
+        "departement": "Bloléquin",
+        "chef_lieu": "Bloléquin"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-8.1, 6.5], [-7.7, 6.5], [-7.7, 6.9], [-8.1, 6.9], [-8.1, 6.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Daloa",
+        "name_fr": "Daloa",
+        "type": "Département",
+        "region": "Sassandra-Marahoué",
+        "district": "Sassandra-Marahoué",
+        "departement": "Daloa",
+        "chef_lieu": "Daloa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.6, 6.7], [-6.2, 6.7], [-6.2, 7.1], [-6.6, 7.1], [-6.6, 6.7]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gadouan",
+        "name_fr": "Gadouan",
+        "type": "Sous-préfecture",
+        "region": "Sassandra-Marahoué",
+        "district": "Sassandra-Marahoué",
+        "departement": "Daloa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.5, 6.8], [-6.4, 6.8], [-6.4, 6.9], [-6.5, 6.9], [-6.5, 6.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Issia",
+        "name_fr": "Issia",
+        "type": "Département",
+        "region": "Sassandra-Marahoué",
+        "district": "Sassandra-Marahoué",
+        "departement": "Issia",
+        "chef_lieu": "Issia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.8, 6.4], [-6.4, 6.4], [-6.4, 6.8], [-6.8, 6.8], [-6.8, 6.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saïoua",
+        "name_fr": "Saïoua",
+        "type": "Sous-préfecture",
+        "region": "Sassandra-Marahoué",
+        "district": "Sassandra-Marahoué",
+        "departement": "Issia"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.7, 6.5], [-6.6, 6.5], [-6.6, 6.6], [-6.7, 6.6], [-6.7, 6.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vavoua",
+        "name_fr": "Vavoua",
+        "type": "Département",
+        "region": "Sassandra-Marahoué",
+        "district": "Sassandra-Marahoué",
+        "departement": "Vavoua",
+        "chef_lieu": "Vavoua"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.6, 7.1], [-6.2, 7.1], [-6.2, 7.5], [-6.6, 7.5], [-6.6, 7.1]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bouaflé",
+        "name_fr": "Bouaflé",
+        "type": "Département",
+        "region": "Sassandra-Marahoué",
+        "district": "Sassandra-Marahoué",
+        "departement": "Bouaflé",
+        "chef_lieu": "Bouaflé"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.2, 6.8], [-5.8, 6.8], [-5.8, 7.2], [-6.2, 7.2], [-6.2, 6.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinfra",
+        "name_fr": "Sinfra",
+        "type": "Département",
+        "region": "Sassandra-Marahoué",
+        "district": "Sassandra-Marahoué",
+        "departement": "Sinfra",
+        "chef_lieu": "Sinfra"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.0, 6.5], [-5.6, 6.5], [-5.6, 6.9], [-6.0, 6.9], [-6.0, 6.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zuénoula",
+        "name_fr": "Zuénoula",
+        "type": "Département",
+        "region": "Sassandra-Marahoué",
+        "district": "Sassandra-Marahoué",
+        "departement": "Zuénoula",
+        "chef_lieu": "Zuénoula"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.2, 7.2], [-5.8, 7.2], [-5.8, 7.6], [-6.2, 7.6], [-6.2, 7.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Korhogo",
+        "name_fr": "Korhogo",
+        "type": "Département",
+        "region": "Savanes",
+        "district": "Savanes",
+        "departement": "Korhogo",
+        "chef_lieu": "Korhogo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.8, 9.3], [-5.3, 9.3], [-5.3, 9.8], [-5.8, 9.8], [-5.8, 9.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karakoro",
+        "name_fr": "Karakoro",
+        "type": "Sous-préfecture",
+        "region": "Savanes",
+        "district": "Savanes",
+        "departement": "Korhogo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.7, 9.4], [-5.6, 9.4], [-5.6, 9.5], [-5.7, 9.5], [-5.7, 9.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ferkessédougou",
+        "name_fr": "Ferkessédougou",
+        "type": "Département",
+        "region": "Savanes",
+        "district": "Savanes",
+        "departement": "Ferkessédougou",
+        "chef_lieu": "Ferkessédougou"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.5, 9.4], [-5.0, 9.4], [-5.0, 9.9], [-5.5, 9.9], [-5.5, 9.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kong",
+        "name_fr": "Kong",
+        "type": "Sous-préfecture",
+        "region": "Savanes",
+        "district": "Savanes",
+        "departement": "Ferkessédougou"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.4, 9.5], [-5.3, 9.5], [-5.3, 9.6], [-5.4, 9.6], [-5.4, 9.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boundiali",
+        "name_fr": "Boundiali",
+        "type": "Département",
+        "region": "Savanes",
+        "district": "Savanes",
+        "departement": "Boundiali",
+        "chef_lieu": "Boundiali"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.6, 9.4], [-6.1, 9.4], [-6.1, 9.9], [-6.6, 9.9], [-6.6, 9.4]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gbon",
+        "name_fr": "Gbon",
+        "type": "Sous-préfecture",
+        "region": "Savanes",
+        "district": "Savanes",
+        "departement": "Boundiali"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.5, 9.5], [-6.4, 9.5], [-6.4, 9.6], [-6.5, 9.6], [-6.5, 9.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tengrela",
+        "name_fr": "Tengrela",
+        "type": "Département",
+        "region": "Savanes",
+        "district": "Savanes",
+        "departement": "Tengrela",
+        "chef_lieu": "Tengrela"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.6, 10.2], [-6.2, 10.2], [-6.2, 10.6], [-6.6, 10.6], [-6.6, 10.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sinématiali",
+        "name_fr": "Sinématiali",
+        "type": "Département",
+        "region": "Savanes",
+        "district": "Savanes",
+        "departement": "Sinématiali",
+        "chef_lieu": "Sinématiali"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.8, 9.8], [-5.4, 9.8], [-5.4, 10.3], [-5.8, 10.3], [-5.8, 9.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ouangolodougou",
+        "name_fr": "Ouangolodougou",
+        "type": "Département",
+        "region": "Savanes",
+        "district": "Savanes",
+        "departement": "Ouangolodougou",
+        "chef_lieu": "Ouangolodougou"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.3, 9.8], [-4.9, 9.8], [-4.9, 10.3], [-5.3, 10.3], [-5.3, 9.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bouaké",
+        "name_fr": "Bouaké",
+        "type": "Département",
+        "region": "Vallée du Bandama",
+        "district": "Vallée du Bandama",
+        "departement": "Bouaké",
+        "chef_lieu": "Bouaké"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.2, 7.5], [-4.8, 7.5], [-4.8, 8.0], [-5.2, 8.0], [-5.2, 7.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brobo",
+        "name_fr": "Brobo",
+        "type": "Sous-préfecture",
+        "region": "Vallée du Bandama",
+        "district": "Vallée du Bandama",
+        "departement": "Bouaké"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.1, 7.6], [-5.0, 7.6], [-5.0, 7.7], [-5.1, 7.7], [-5.1, 7.6]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Béoumi",
+        "name_fr": "Béoumi",
+        "type": "Département",
+        "region": "Vallée du Bandama",
+        "district": "Vallée du Bandama",
+        "departement": "Béoumi",
+        "chef_lieu": "Béoumi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.7, 7.5], [-5.3, 7.5], [-5.3, 7.9], [-5.7, 7.9], [-5.7, 7.5]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bodokro",
+        "name_fr": "Bodokro",
+        "type": "Sous-préfecture",
+        "region": "Vallée du Bandama",
+        "district": "Vallée du Bandama",
+        "departement": "Béoumi"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.6, 7.6], [-5.5, 7.6], [-5.5, 7.7], [-5.6, 7.7], [-5.6, 7.6]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Botro",
+        "name_fr": "Botro",
+        "type": "Département",
+        "region": "Vallée du Bandama",
+        "district": "Vallée du Bandama",
+        "departement": "Botro",
+        "chef_lieu": "Botro"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.3, 7.7], [-4.9, 7.7], [-4.9, 8.1], [-5.3, 8.1], [-5.3, 7.7]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dabakala",
+        "name_fr": "Dabakala",
+        "type": "Département",
+        "region": "Vallée du Bandama",
+        "district": "Vallée du Bandama",
+        "departement": "Dabakala",
+        "chef_lieu": "Dabakala"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-4.6, 8.2], [-4.2, 8.2], [-4.2, 8.6], [-4.6, 8.6], [-4.6, 8.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katiola",
+        "name_fr": "Katiola",
+        "type": "Département",
+        "region": "Vallée du Bandama",
+        "district": "Vallée du Bandama",
+        "departement": "Katiola",
+        "chef_lieu": "Katiola"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.2, 8.0], [-4.8, 8.0], [-4.8, 8.4], [-5.2, 8.4], [-5.2, 8.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niakaramandougou",
+        "name_fr": "Niakaramandougou",
+        "type": "Sous-préfecture",
+        "region": "Vallée du Bandama",
+        "district": "Vallée du Bandama",
+        "departement": "Katiola"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.1, 8.1], [-5.0, 8.1], [-5.0, 8.2], [-5.1, 8.2], [-5.1, 8.1]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sakassou",
+        "name_fr": "Sakassou",
+        "type": "Département",
+        "region": "Vallée du Bandama",
+        "district": "Vallée du Bandama",
+        "departement": "Sakassou",
+        "chef_lieu": "Sakassou"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-5.5, 7.8], [-5.1, 7.8], [-5.1, 8.2], [-5.5, 8.2], [-5.5, 7.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Séguéla",
+        "name_fr": "Séguéla",
+        "type": "Département",
+        "region": "Woroba",
+        "district": "Woroba",
+        "departement": "Séguéla",
+        "chef_lieu": "Séguéla"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.0, 7.8], [-6.6, 7.8], [-6.6, 8.2], [-7.0, 8.2], [-7.0, 7.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Massala",
+        "name_fr": "Massala",
+        "type": "Sous-préfecture",
+        "region": "Woroba",
+        "district": "Woroba",
+        "departement": "Séguéla"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.9, 7.9], [-6.8, 7.9], [-6.8, 8.0], [-6.9, 8.0], [-6.9, 7.9]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mankono",
+        "name_fr": "Mankono",
+        "type": "Département",
+        "region": "Woroba",
+        "district": "Woroba",
+        "departement": "Mankono",
+        "chef_lieu": "Mankono"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.6, 7.9], [-6.2, 7.9], [-6.2, 8.3], [-6.6, 8.3], [-6.6, 7.9]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bouandougou",
+        "name_fr": "Bouandougou",
+        "type": "Sous-préfecture",
+        "region": "Woroba",
+        "district": "Woroba",
+        "departement": "Mankono"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.5, 8.0], [-6.4, 8.0], [-6.4, 8.1], [-6.5, 8.1], [-6.5, 8.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Touba",
+        "name_fr": "Touba",
+        "type": "Département",
+        "region": "Woroba",
+        "district": "Woroba",
+        "departement": "Touba",
+        "chef_lieu": "Touba"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.8, 8.2], [-7.4, 8.2], [-7.4, 8.6], [-7.8, 8.6], [-7.8, 8.2]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Foungbesso",
+        "name_fr": "Foungbesso",
+        "type": "Sous-préfecture",
+        "region": "Woroba",
+        "district": "Woroba",
+        "departement": "Touba"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-7.7, 8.3], [-7.6, 8.3], [-7.6, 8.4], [-7.7, 8.4], [-7.7, 8.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Koro",
+        "name_fr": "Koro",
+        "type": "Département",
+        "region": "Woroba",
+        "district": "Woroba",
+        "departement": "Koro",
+        "chef_lieu": "Koro"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-6.4, 8.3], [-6.0, 8.3], [-6.0, 8.7], [-6.4, 8.7], [-6.4, 8.3]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bondoukou",
+        "name_fr": "Bondoukou",
+        "type": "Département",
+        "region": "Zanzan",
+        "district": "Zanzan",
+        "departement": "Bondoukou",
+        "chef_lieu": "Bondoukou"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-3.0, 8.0], [-2.6, 8.0], [-2.6, 8.4], [-3.0, 8.4], [-3.0, 8.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tanda",
+        "name_fr": "Tanda",
+        "type": "Sous-préfecture",
+        "region": "Zanzan",
+        "district": "Zanzan",
+        "departement": "Bondoukou"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-3.2, 7.8], [-2.8, 7.8], [-2.8, 8.2], [-3.2, 8.2], [-3.2, 7.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bouna",
+        "name_fr": "Bouna",
+        "type": "Département",
+        "region": "Zanzan",
+        "district": "Zanzan",
+        "departement": "Bouna",
+        "chef_lieu": "Bouna"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-3.2, 9.1], [-2.8, 9.1], [-2.8, 9.5], [-3.2, 9.5], [-3.2, 9.1]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doropo",
+        "name_fr": "Doropo",
+        "type": "Sous-préfecture",
+        "region": "Zanzan",
+        "district": "Zanzan",
+        "departement": "Bouna"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-3.3, 9.8], [-3.2, 9.8], [-3.2, 9.9], [-3.3, 9.9], [-3.3, 9.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nassian",
+        "name_fr": "Nassian",
+        "type": "Sous-préfecture",
+        "region": "Zanzan",
+        "district": "Zanzan",
+        "departement": "Bouna"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-3.5, 8.8], [-3.4, 8.8], [-3.4, 8.9], [-3.5, 8.9], [-3.5, 8.8]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Transua",
+        "name_fr": "Transua",
+        "type": "Département",
+        "region": "Zanzan",
+        "district": "Zanzan",
+        "departement": "Transua",
+        "chef_lieu": "Transua"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-3.5, 8.5], [-3.1, 8.5], [-3.1, 8.9], [-3.5, 8.9], [-3.5, 8.5]]]
+      }
+    }
+  ]
+}
